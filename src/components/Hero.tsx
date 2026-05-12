@@ -92,7 +92,7 @@ export default function Hero() {
               ref={(el) => {
                 lineRefs.current[0] = el;
               }}
-              className="block text-[10vw] md:text-[6.5vw] lg:text-xs"
+              className="block text-[10vw] md:text-[6.5vw] lg:text-xl"
             >
               Le diagnostic est
             </span>
